@@ -1,3 +1,3 @@
 echo off
 echo "hello %name%"
-end
+pause
